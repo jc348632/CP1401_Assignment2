@@ -4,7 +4,7 @@ Pierre Jordan Harrison
 The program is to load a list of items from a csv file, then the user can choose to list the items
 hire the items, return the items, or add another items.
 The program ended with saving the current situationof all the items into the csv file.
-Github link:
+Github link: https://github.com/jc348632/CP1401_Assignment2
 """
 
 # This function for ordering ticket Return or One-Way
